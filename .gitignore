@@ -44,3 +44,5 @@ private/        # Excluir toda una carpeta llamada "private"
 *.md
 *.txt
 *.pdf
+
+.DS_Store
