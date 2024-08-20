@@ -1,0 +1,46 @@
+
+# Ignorar carpetas del sistema de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignorar archivos de configuración de macOS
+Icon?
+._*
+
+# Ignorar la papelera de macOS
+.Trashes
+.Trash
+
+# Ignorar archivos y carpetas específicas de Obsidian
+.obsidian/       # Excluir la carpeta de configuración de Obsidian (puedes eliminar esta línea si deseas incluir la configuración)
+*.excalidraw    # Ignorar archivos de dibujo de Excalidraw si no quieres incluirlos
+workspace       # Archivo que guarda la última sesión de Obsidian
+graph.json      # Archivo que guarda la última vista del gráfico
+
+# Ignorar archivos temporales y de caché
+*.log           # Archivos de registro
+*.tmp           # Archivos temporales
+.cache/         # Carpeta de caché
+
+# Ignorar archivos de edición de texto y conflicto
+*.swp           # Archivos temporales de vim
+*.swo           # Archivos temporales de vim
+*.bak           # Archivos de respaldo
+*.orig          # Archivos de respaldo en caso de conflictos de merge
+
+# Ignorar archivos de notas que no deseas sincronizar (por ejemplo, notas privadas)
+private/        # Excluir toda una carpeta llamada "private"
+
+# Ignorar los archivos multimedia si no quieres subirlos
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mp3
+
+# Incluir solo archivos Markdown y otros documentos que desees
+*.md
+*.txt
+*.pdf
