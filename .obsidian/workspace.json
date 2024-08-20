@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea8bc69e4622690c",
+            "id": "2fcd7a7212d8437f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "2fcd7a7212d8437f",
+            "id": "cd8e839a2391cc63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7c2ee3493b9c1dad",
@@ -162,12 +161,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea8bc69e4622690c",
+  "active": "2fcd7a7212d8437f",
   "lastOpenFiles": [
-    "README.md",
-    "Home Backlog del Aplicativo Ceplan V2.0.md",
+    "3_Backlog/Backlog.md",
+    "3_Backlog/M.01 PEI/Registro de OEI.md",
+    "3_Backlog/M.01 PEI/Registro de PEI.md",
+    "3_Backlog/M.01 PEI/Untitled.md",
+    "7_Gestión_de_proyecto/(*) Roles_y_responsabilidades.md",
     "2_Requisitos/2.2_Requerimientos_funcionales.md",
+    "3_Backlog",
+    "Home Backlog del Aplicativo Ceplan V2.0.md",
     "2_Requisitos/2.1_Requerimientos_no_funcionales.md",
+    "7_Gestión_de_proyecto/Backlog_de_producto.md",
+    "7_Gestión_de_proyecto/(*) Roadmap.md",
+    "7_Gestión_de_proyecto/(*) Plan_de_sprint.md",
+    "4_Diseño/(*) Modelo_de_Datos.md",
+    "4_Diseño/(*) Mockups_UI.md",
+    "4_Diseño/(*) Diseño_de_API.md",
+    "4_Diseño/(*) Diagrama_de_Componentes.md",
+    "4_Diseño/(*) Arquitectura.md",
+    "README.md",
     "1_Introduccion.md",
     "2.2. Carga Máxima Prevista.md",
     "2.1-Requerimientos-no-funcionales.md",
@@ -178,23 +191,10 @@
     "Nota exemplo.md",
     "diagrams examples.md",
     "Templates/HU - template.md",
-    "1_Introduccion/1.1_Vision.md",
-    "Excalidraw/Drawing 2024-08-20 08.59.52.excalidraw.md",
-    "Drawing 2024-08-20 09.04.51.excalidraw.md",
-    "Nota - Un poco mejor cada día.md",
-    "tener una vision a largo plazo.md",
-    "Excalidraw/Drawing 2024-08-20 09.00.46.excalidraw.md",
-    "1_Introduccion/1.4_Stakeholders.md",
     "Excalidraw",
-    "Templates/Plantilla de diagrama ejemplo.md",
-    "1_Introduccion/1.3_Alcance.md",
-    "1_Introduccion/1.2_Objetivos.md",
-    "6_Anexos/Glosario.md",
-    "4_Gestión_de_proyecto/(*) Plan_de_sprint.md",
-    "Templates/Plantilla reunión.md",
     "Untitled 1.canvas",
     "Templates",
     "Untitled 1",
-    "M.01 PEI"
+    "3_Backlog/M.01 PEI"
   ]
 }
