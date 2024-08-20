@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"text","text":"Módulo 1","id":"c5e243eb6269f6a5","x":-440,"y":-820,"width":250,"height":110},
+		{"type":"text","text":"Funcionalidad 1","id":"801420ece91d0a8d","x":-190,"y":-480,"width":250,"height":110},
+		{"type":"text","text":"Funcionalidad 2","id":"a47818a29c335bc2","x":-600,"y":-480,"width":250,"height":60},
+		{"id":"b8f03bacf038a6d0","x":-580,"y":-320,"width":250,"height":60,"color":"3","type":"text","text":""}
+	],
+	"edges":[
+		{"id":"02a62251f3227c4f","fromNode":"c5e243eb6269f6a5","fromSide":"right","toNode":"801420ece91d0a8d","toSide":"top"},
+		{"id":"e06f31591307c7fb","fromNode":"a47818a29c335bc2","fromSide":"top","toNode":"c5e243eb6269f6a5","toSide":"bottom"}
+	]
+}

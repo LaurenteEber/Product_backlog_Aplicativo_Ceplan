@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "7f95da7c03d58ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1abd8750efdac5ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8bc69e4622690c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Requisitos/2.2_Requerimientos_funcionales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fcd7a7212d8437f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Backlog del Aplicativo Ceplan V2.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7467e98794c5bbca",
+    "type": "split",
+    "children": [
+      {
+        "id": "622a09dbc1013fad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc544d0b67abbebc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fe028a27439f4dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c84fceb3d2f52c4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7c2ee3493b9c1dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb61fec52bed544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35e3b70cb0ad62d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2_Requisitos/2.2_Requerimientos_funcionales.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7f2e36135a089ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2_Requisitos/2.2_Requerimientos_funcionales.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f963e9c867412d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a4f973c7faec385",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_Requisitos/2.2_Requerimientos_funcionales.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ea8bc69e4622690c",
+  "lastOpenFiles": [
+    "README.md",
+    "Home Backlog del Aplicativo Ceplan V2.0.md",
+    "2_Requisitos/2.2_Requerimientos_funcionales.md",
+    "2_Requisitos/2.1_Requerimientos_no_funcionales.md",
+    "1_Introduccion.md",
+    "2.2. Carga Máxima Prevista.md",
+    "2.1-Requerimientos-no-funcionales.md",
+    "Untitled.canvas",
+    "Untitled Kanban 1.md",
+    "Template - Product Backlog.md",
+    "Reunion prueba ejem.md",
+    "Nota exemplo.md",
+    "diagrams examples.md",
+    "Templates/HU - template.md",
+    "1_Introduccion/1.1_Vision.md",
+    "Excalidraw/Drawing 2024-08-20 08.59.52.excalidraw.md",
+    "Drawing 2024-08-20 09.04.51.excalidraw.md",
+    "Nota - Un poco mejor cada día.md",
+    "tener una vision a largo plazo.md",
+    "Excalidraw/Drawing 2024-08-20 09.00.46.excalidraw.md",
+    "1_Introduccion/1.4_Stakeholders.md",
+    "Excalidraw",
+    "Templates/Plantilla de diagrama ejemplo.md",
+    "1_Introduccion/1.3_Alcance.md",
+    "1_Introduccion/1.2_Objetivos.md",
+    "6_Anexos/Glosario.md",
+    "4_Gestión_de_proyecto/(*) Plan_de_sprint.md",
+    "Templates/Plantilla reunión.md",
+    "Untitled 1.canvas",
+    "Templates",
+    "Untitled 1",
+    "M.01 PEI"
+  ]
+}
