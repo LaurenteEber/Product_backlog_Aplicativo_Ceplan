@@ -13,7 +13,7 @@ Primero, descarga la carpeta. Lo puedes hacer de 2 formas:
 git clone https://github.com/LaurenteEber/Product_backlog_Aplicativo_Ceplan.git
 ```
 
-- O descargándolo como archivo zip 
+- O descargándolo como archivo zip, clic en botón "Code", luego en opción "Download ZIP"
 
 ![descarga](Imagenes/descarga_carpeta_zip_de_github.png)
 
