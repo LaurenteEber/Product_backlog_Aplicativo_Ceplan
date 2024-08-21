@@ -15,7 +15,7 @@ git clone https://github.com/LaurenteEber/Product_backlog_Aplicativo_Ceplan.git
 
 - O descargándolo como archivo zip 
 
-![[descarga_carpeta_zip_de_github.png]]
+![descarga](Imagenes/descarga_carpeta_zip_de_github.png)
 
 
 ### **2. Descargar e Instalar Obsidian**
