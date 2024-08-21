@@ -7,15 +7,15 @@ Este repositorio contiene la documentación completa del Aplicativo Ceplan V2.0,
 ### **1. Clonar el Repositorio**
 
 Primero, descarga la carpeta. Lo puedes hacer de 2 formas:
-i. Clonando este repositorio en tu máquina local usando el siguiente comando en la terminal:
+- Clonando este repositorio en tu máquina local usando el siguiente comando en la terminal:
 
 ```bash
 git clone https://github.com/LaurenteEber/Product_backlog_Aplicativo_Ceplan.git
 ```
 
-ii. O descargándolo como archivo zip 
+- O descargándolo como archivo zip 
 
-![[Captura de pantalla 21.08.2024 a 15.34.12 p. m..png]]
+![[descarga_carpeta_zip_de_github.png]]
 
 
 ### **2. Descargar e Instalar Obsidian**
