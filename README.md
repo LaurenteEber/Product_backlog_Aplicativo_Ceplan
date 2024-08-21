@@ -34,4 +34,4 @@ Para acceder al backlog y a toda la documentación principal, abre el archivo `H
 
 ## **Enlace Directo al Backlog**
 
-[Home Backlog del Aplicativo Ceplan V2.0](Home Backlog del Aplicativo Ceplan V2.0)
+[Home Backlog del Aplicativo Ceplan V2.0](Home_Backlog_del_Aplicativo_Ceplan_V2.0)

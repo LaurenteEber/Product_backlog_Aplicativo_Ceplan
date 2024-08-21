@@ -9,24 +9,12 @@
         "dimension": 48.35680751173709,
         "children": [
           {
-            "id": "cd8e839a2391cc63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "917f88618cef75d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Anexos/Guías metodológicas.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Backlog del Aplicativo Ceplan V2.0.md",
+                "file": "Home_Backlog_del_Aplicativo_Ceplan_V2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,12 +169,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc544d0b67abbebc",
+  "active": "917f88618cef75d5",
   "lastOpenFiles": [
+    "Home_Backlog_del_Aplicativo_Ceplan_V2.0.md",
+    "README.md",
+    "Home.md",
+    "6_Anexos/Guías metodológicas.md",
     "Imagenes/descarga_carpeta_zip_de_github.png",
     "Imagenes",
     "Captura de pantalla 21.08.2024 a 15.34.12 p. m..png",
-    "Home Backlog del Aplicativo Ceplan V2.0.md",
     "3_Backlog/M.01 PEI/Registro de OEI.md",
     "3_Backlog/M.01 PEI/Registro de PEI.md",
     "3_Backlog/M.01 PEI/Untitled.md",
@@ -197,7 +188,6 @@
     "5_Gestion_de_calidad/Mantenimiento_y_soporte (*).md",
     "5_Gestion_de_calidad/Plan_de_pruebas (*).md",
     "6_Anexos/Glosario.md",
-    "6_Anexos/Guías metodológicas.md",
     "6_Anexos/Referencias.md",
     "2_Requisitos/2.1_Requerimientos_no_funcionales.md",
     "4_Diseño/Diseño_de_API (*).md",
@@ -211,7 +201,6 @@
     "1_Introduccion/1.2_Objetivos.md",
     "1_Introduccion/1.1_Vision.md",
     "3_Backlog",
-    "7_Gestión_de_proyecto/Backlog_de_producto.md",
     "Untitled.canvas",
     "Excalidraw",
     "Untitled 1.canvas",
