@@ -32,6 +32,3 @@ Si aún no tienes Obsidian, descárgalo e instálalo desde [Obsidian](https://ob
 
 Para acceder al backlog y a toda la documentación principal, abre el archivo `Home Backlog del Aplicativo Ceplan V2.0` desde Obsidian.
 
-## **Enlace Directo al Backlog**
-
-[Home Backlog del Aplicativo Ceplan V2.0](Home_Backlog_del_Aplicativo_Ceplan_V2.0)

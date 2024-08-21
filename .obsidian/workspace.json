@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_Backlog_del_Aplicativo_Ceplan_V2.0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_Backlog_del_Aplicativo_Ceplan_V2.0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home_Backlog_del_Aplicativo_Ceplan_V2.0.md"
+                "file": "README.md"
               }
             }
           }
@@ -169,10 +169,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fcd7a7212d8437f",
+  "active": "917f88618cef75d5",
   "lastOpenFiles": [
-    "README.md",
     "Home_Backlog_del_Aplicativo_Ceplan_V2.0.md",
+    "README.md",
     "Home.md",
     "6_Anexos/Guías metodológicas.md",
     "Imagenes/descarga_carpeta_zip_de_github.png",
