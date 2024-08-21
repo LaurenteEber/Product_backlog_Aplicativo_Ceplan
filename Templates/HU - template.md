@@ -3,7 +3,7 @@ Last_Modificated:: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 tags:: <% tp.system.suggester(["Módulo PEI", "Módulo POI", "Módulo PESEM"], ["Módulo PEI", "Módulo POI", "Módulo PESEM"]) %>
 category:: <% tp.system.suggester(["Planeamiento", "Seguimiento", "Evaluación", "Mejora continua"], ["Planeamiento", "Seguimiento", "Evaluación", "Mejora continua"])%>
 <% await tp.file.functions.move("/2_Requisitos/") %>
-tipo: [[Home_Backlog_del_Aplicativo_Ceplan_V2.0]]
+tipo: [[Home_Backlog_Aplicativo_Ceplan_V2.0]]
 
 
 # Título:  <% tp.system.prompt("Ingresa el título de la nota") %>
