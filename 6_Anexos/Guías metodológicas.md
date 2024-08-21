@@ -9,4 +9,5 @@
 6. [Guía de PDRC](https://www.gob.pe/institucion/ceplan/informes-publicaciones/1936639-guia-para-el-plan-de-desarrollo-regional-concertado-para-la-mejora-de-planes-estrategicos-con-enfoque-territorial)
 7. [Guía de PDLC](https://www.gob.pe/institucion/ceplan/informes-publicaciones/4903911-guia-para-el-plan-de-desarrollo-local-concertado-provincial-y-distrital)
 8. [Directiva Ceplan](https://www.gob.pe/institucion/ceplan/normas-legales/5373394-001-2024-ceplan-pcd)
-9. 
+9.  [PEDN](https://peru2050.ceplan.gob.pe)
+10. 

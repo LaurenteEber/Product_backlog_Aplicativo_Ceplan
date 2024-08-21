@@ -45,3 +45,19 @@
 
 
 ## [[2.2_Requerimientos_funcionales | 2.2 Requerimientos funcionales]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Anexos: [[Guías metodológicas]]
