@@ -46,6 +46,14 @@
 
 ## [[2.2_Requerimientos_funcionales | 2.2 Requerimientos funcionales]]
 
+- [[2.2_Requerimientos_funcionales#**1. Gestión de Políticas Nacionales (PN):** | 1. Gestión de Políticas Nacionales (PN) ]]
+- [[2.2_Requerimientos_funcionales#**2. Gestión del Plan Estratégico Sectorial Multianual (PESEM)** | 2. Gestión del Plan Estratégico Sectorial Multianual (PESEM)]]
+- [[2.2_Requerimientos_funcionales#**3. Gestión del Plan de Desarrollo Regional Concertado (PDRC)** | 3. Gestión del Plan de Desarrollo Regional Concertado (PDRC)]]
+- [[2.2_Requerimientos_funcionales#**4. Gestión del Plan de Desarrollo Local Concertado (PDLC)** | 4. Gestión del Plan de Desarrollo Local Concertado (PDLC)]]
+- [[2.2_Requerimientos_funcionales#**5. Gestión del Plan Estratégico Institucional (PEI)** | 5. Gestión del Plan Estratégico Institucional (PEI)]]
+- [[2.2_Requerimientos_funcionales#**6. Gestión del Plan Operativo Institucional (POI)** | 6. Gestión del Plan Operativo Institucional (POI)]]
+- [[2.2_Requerimientos_funcionales#7. Módulo de Gestión de Usuarios y Asignación de Privilegios | 7. Módulo de Gestión de Usuarios y Asignación de Privilegios]]
+
 
 
 
